@@ -3,7 +3,7 @@ package Lab3;
  * calculating words letters*/
 import java.util.Scanner;
 
-public class TextCalculate {
+public class TextCalculateEx5{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

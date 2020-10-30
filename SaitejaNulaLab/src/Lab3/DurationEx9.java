@@ -1,8 +1,10 @@
 package Lab3;
 import java.util.*;
 import java.text.*;
-
-public class Duration {//creating for current date
+/**creating for current date
+ * 
+ */
+public class DurationEx9{//creating for current date
 	public static void main(String args[]) {
 		SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy");//predefine class
 		Date date = new Date();//predefine class

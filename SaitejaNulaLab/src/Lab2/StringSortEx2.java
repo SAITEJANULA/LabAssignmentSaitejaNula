@@ -1,10 +1,11 @@
 package Lab2;
 
-
+/*
+ * String objects and sort in alphabetical order.*/
 
 import java.util.Scanner;
 
-public class StringSort {
+public class StringSortEx2{
 
 	public static void main(String[] args) {
 		//Declaration, Instantiation and Initialization

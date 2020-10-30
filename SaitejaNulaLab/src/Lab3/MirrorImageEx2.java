@@ -1,10 +1,10 @@
 package Lab3;
 /*
- * for mirror image */
+ * mirror image of a String. The method should return the two Strings separated with a pipe(|) symbol . */
 import java.util.Scanner;
 import java.util.*;
 
-public class MirrorImage {
+public class MirrorImageEx2{
 
 	public static void main(String[] args) {
 		

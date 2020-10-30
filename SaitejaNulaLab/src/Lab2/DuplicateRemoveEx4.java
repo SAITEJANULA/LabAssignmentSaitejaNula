@@ -1,6 +1,8 @@
 package Lab2;
 import java.util.*;
-public class DuplicateRemove {
+/*
+ * removes all the duplicates in the array. Return the resulting array in descending order*/
+public class DuplicateRemoveEx4{
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);//creating Scanner class object 

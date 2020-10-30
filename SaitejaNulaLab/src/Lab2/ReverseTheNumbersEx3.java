@@ -1,34 +1,9 @@
 package Lab2;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*
+ * reverse the numbers in the array and returns the resulting array in sorted order*/
 import java.util.Scanner;
 
-
-public class ReverseTheNumbers {
+public class ReverseTheNumbersEx3{
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);//creating Scanner class object    
@@ -69,7 +44,7 @@ public class ReverseTheNumbers {
 			arr[i] = reverse(arr[i]); //calls the reverse() method to reverse the element
 		}
 		
-		for(int i=0;i<arr.length;i++)  //Sorting the array in ascending order (Bubble Sort)
+		for(int i=0;i<arr.length;i++)  //Sorting the array in ascending order
 		{
 			for(int j=0;j<i;j++)
 			{

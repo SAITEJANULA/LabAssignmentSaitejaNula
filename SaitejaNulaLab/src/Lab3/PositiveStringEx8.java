@@ -1,8 +1,10 @@
 package Lab3;
-
+/*
+ * difference between the next character and the current character
+ to check whether the difference is positive or not*/
 import java.util.Scanner;
 
-public class PositiveString {
+public class PositiveStringEx8 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

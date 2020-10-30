@@ -1,8 +1,10 @@
 package Lab3;
+/*
+ * replaces all the consonants in the String with the next alphabet. */
 import java.lang.*;
 /*replacing next immediate alphabets except vowels*/
 import java.util.Scanner;
-public class ReplaceConsonant {
+public class ReplaceConsonantEx3 {
 	public static void main(String args[]) {
 		Scanner sc=new Scanner(System.in);;//creating Scanner class object
 		System.out.println("Enter a string");

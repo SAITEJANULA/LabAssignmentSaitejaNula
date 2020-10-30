@@ -1,8 +1,10 @@
 package Lab2;
+/*
+ * finding the second smallest element in sequence*/
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class GetSecondSmallest  {
+public class GetSecondSmallestEx1{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
